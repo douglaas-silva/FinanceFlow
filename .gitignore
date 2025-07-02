@@ -1,0 +1,14 @@
+# Angular
+node_modules
+dist
+.angular
+
+# .NET
+bin/
+obj/
+*.db
+appsettings.*.json
+
+# Outros
+.env
+*.log
