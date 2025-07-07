@@ -12,3 +12,4 @@ appsettings.*.json
 # Outros
 .env
 *.log
+.vs/
